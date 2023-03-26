@@ -1,0 +1,13 @@
+{
+    "name":"WEATHER PLEASE!",
+    "version":"0.0.1",
+    "manifest_version":3,
+    "action":{
+        "default_popup":"html/index.html",
+        "default_icon":"images/icon.jpg"
+    },
+    "icons":{
+        "128":"images/icon.jpg"
+    },
+    "permissions":["activeTab"]
+}
